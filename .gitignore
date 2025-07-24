@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+
+# Ignore credentials (API keys)
+credentials/
+*.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore temporary files
+temp_image.png
